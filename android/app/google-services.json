@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "602182070231",
+    "project_id": "brew-crew-518f0",
+    "storage_bucket": "brew-crew-518f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602182070231:android:65b066b6d0e9e55984a592",
+        "android_client_info": {
+          "package_name": "com.riyadixit.benebrew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602182070231-c0ttdaq0lq61nkvs6fhvukrhge8occc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG967vN6NueHE6WRx9rVNAVWMT43OJ3r0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602182070231-c0ttdaq0lq61nkvs6fhvukrhge8occc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
