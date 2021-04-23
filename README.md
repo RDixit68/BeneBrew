@@ -2,7 +2,7 @@
 A simple flutter app using Firebase 
 
 Description:
-In this App A user can register and sign in and that is updated realtime at backend. On the Home page one can see the list of fellow coffee  drinkers their preferences.In settings option user can change the name,the sugars intake and the how dark the coffee must be using a slider all this is updated at the backend and reflected realtime on the home screen
+BeneBrew is an app where a user can register and signIn, all this is updated realtime at backend. On the Home page user can see the list of fellow coffee  drinkers and their preferences.In settings option user can change the name,the sugars intake and the how dark the coffee should be be using a slider all this is updated at the backend and reflected realtime on the home screen.
 
 
 
